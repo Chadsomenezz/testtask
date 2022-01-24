@@ -1,0 +1,25 @@
+.header{
+  width: 100vw;
+  height: 4.9rem;
+  background-color: $primary;
+  @extend .flex-centered;
+
+  &__topnav{
+    width: 120rem;
+    margin: 0 auto;
+    @extend .flex-centered;
+    gap: 1.4rem;
+
+    &__description{
+      height: 2.3rem;
+      font-family: "Roboto", sans-serif;
+      font-size: 1.4rem;
+      line-height: 2.2em;
+      color: $white;
+      padding-bottom: 30px;
+    }
+  }
+  //  END TOP NAVIGATION
+
+
+}

@@ -1,0 +1,32 @@
+.flex-centered{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.flex-between{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+//FOR MARGIN
+.small-margin-top{
+  margin-top:1rem;
+}
+.medium-margin-top{
+  margin-top: 3rem;
+}
+
+.e-block{
+  display: block;
+}
+
+.comment-extend{
+  font-family: "Roboto",sans-serif;
+  font-size: 1.2rem;
+  line-height: 1.8rem;
+  letter-spacing: 0.0rem;
+  color: #606060;
+}

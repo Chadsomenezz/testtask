@@ -1,0 +1,10 @@
+.main{
+  width: 120rem;
+  margin-left: auto;
+  margin-right: auto;
+  @extend .medium-margin-top;
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+
+}

@@ -1,0 +1,11 @@
+.svg-message-container{
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &--green-circle{
+  }
+  &--mail{
+    position: absolute;
+  }
+}
